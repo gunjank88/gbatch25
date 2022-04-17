@@ -1,4 +1,7 @@
 line1 added
+<<<<<<< HEAD
 line2 added
 line3 added
 line4 added
+=======
+>>>>>>> parent of bdb0c85 (40 percent on a.txt)
